@@ -13,6 +13,8 @@
 # exclude appsettings.json
 appsettings.json
 
+test
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
